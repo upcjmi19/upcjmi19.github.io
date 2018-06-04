@@ -1,6 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Satisfy);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,400italic);
-@import url(http://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,400italic);
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
 
 body {
     overflow-x: hidden;
@@ -748,12 +748,12 @@ li {
 
 
 .services-section {
-    padding-top: 80px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 .highlights-section {
     background: rgba(128,128,128,0.5);
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .highlights, .highlights-2, .highlights-3 {
@@ -867,8 +867,8 @@ li {
 /*------------------------------------------*/
 
 .portfolio-section-1 {
-    padding-top: 80px;
-    padding-bottom: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     background: #f7f7f7;
 }
 
@@ -1044,7 +1044,7 @@ and (min-width : 551px){
 /*---------------------------------------------------------*/
 
 .about-us-section-1 {
-    padding-top: 80px;
+    padding-top: 50px;
     padding-bottom: 60px;
 }
 
@@ -1627,8 +1627,8 @@ footer.style-1 .footer-link li {
 
 
 .team-member-section {
-    padding-top: 80px;
-    padding-bottom: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 
