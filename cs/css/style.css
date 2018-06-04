@@ -662,11 +662,16 @@ li {
 	animation: flipInX 2s ease-in-out 800ms both;
 }
 
-
-@media (min-width : 992px) {
-
+@media (min-width: 1025px){
     #main-slide .slider-content h1{
 		font-size: 68px;
+	}
+}
+
+@media (min-width : 992px) and (max-width: 1024) {
+
+    #main-slide .slider-content h1{
+		font-size: 35px;
 	}
 }
 
@@ -674,8 +679,8 @@ li {
 @media (min-width : 768px) and (max-width: 991px) {
 
     #main-slide .slider-content h1{
-		font-size: 35px;
-        margin-bottom: 10px;
+		font-size: 25px;
+        margin-bottom: 5px;
         margin-top: 0;
 	}
 	#main-slide .slider-content p{
@@ -697,7 +702,7 @@ li {
 }
 
 
-@media (max-width : 767px) {
+@media (min-width : 478px) and (max-width : 767px) {
 
     #main-slide .slider-content h1{
 		font-size: 28px;
@@ -730,12 +735,19 @@ li {
 
 @media (max-width : 479px) {
 
-    #main-slide .item .slider-content{
-		display: none;
+    #main-slide .item .slider-content h1{
+		font-size: 18px;
+		line-height: inherit;
+		margin-bottom: 0;
+	}
+    
+    #main-slide .slider-content p{
+		font-size: 14px;
+		margin-top: 5px;
 	}
 
     #main-slide .item {
-        height: 180px;
+        width: 100%;
     }
 
 }
