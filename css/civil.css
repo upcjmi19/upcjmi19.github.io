@@ -740,7 +740,7 @@ li {
 		line-height: inherit;
 		margin-bottom: 0;
 	}
-    
+
     #main-slide .slider-content p{
 		font-size: 14px;
 		margin-top: 5px;
@@ -764,7 +764,7 @@ li {
     padding-bottom: 20px;
 }
 .highlights-section {
-    background: rgba(128,128,128,0.5);
+    background: rgba(40,171,227,0.8);
     padding-top: 50px;
 }
 
@@ -1141,7 +1141,7 @@ and (min-width : 551px){
 /*----------------------------------------------------------*/
 
 .fun-facts {
-    background: rgba(91,177,47,0.5);
+    background: rgba(40,171,227,0.5);
     background-attachment: fixed;
     background-size: cover;
     padding-top: 20px;
