@@ -293,6 +293,10 @@ footer.style-1 {
     color: #E67E22;
 }
 
+#main-slide .slider-content h3 strong {
+    color: #E67E22;
+}
+
 .latest-post .post-details .date {
     background: rgba(255, 67, 46, 0.8);
 }

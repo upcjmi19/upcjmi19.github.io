@@ -153,7 +153,7 @@ fieldset[disabled] .btn-xl.active {
 .no-touch .feature:hover i,
 	.no-touch .feature:active i,
 	.no-touch .feature:focus i {
-        
+
         box-shadow: 0 0 0 0 #28ABE3;
 }
 
@@ -261,7 +261,7 @@ footer.style-1 .footer-social li a {
 }
 
 .call-to-action h1 strong {
-    color: #28ABE3;   
+    color: #28ABE3;
 }
 
 .team-details li a {
@@ -290,6 +290,10 @@ footer.style-1 {
 }
 
 #main-slide .slider-content h1 strong {
+    color: #28ABE3;
+}
+
+#main-slide .slider-content h3 strong {
     color: #28ABE3;
 }
 
