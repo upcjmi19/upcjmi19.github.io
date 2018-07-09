@@ -1093,7 +1093,7 @@ and (min-width : 551px){
 }
 
 .welcome-section img {
-    width: 100%;
+    object-fit: fill;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -o-border-radius: 2px;
